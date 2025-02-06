@@ -24,7 +24,7 @@ Durante o desenvolvimento do projeto, foram aplicadas as seguintes tecnologias:
 ## 🚀 Como Executar o Projeto  
 **Pré-requisitos:**  
 - Java JDK 17+  
-- Node.js 16+ 
+- Node.js 18+ 
 - Maven (caso o back-end seja executado pelo terminal)
 - PostgreSQL
 
