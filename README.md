@@ -29,12 +29,12 @@ Durante o desenvolvimento do projeto, foram aplicadas as seguintes tecnologias:
 - PostgreSQL
 
 **Passos:**  
-1. Clonar repositório:  
+1. Clonar o repositório:  
    ```bash
    git clone https://github.com/avaias/GestorLab.git
    ```
 
-2. Configurar banco de dados:  
+2. Configurar o banco de dados:  
    ```sql
    CREATE DATABASE gestorlab;
    ```
@@ -43,7 +43,7 @@ Durante o desenvolvimento do projeto, foram aplicadas as seguintes tecnologias:
     * **Password:** postgres
     * **Porta:** 5432
 
-3. Executar back-end:  
+3. Executar o back-end:  
    ```bash
    cd backend
    cd GestorLab
